@@ -1,5 +1,5 @@
 # Metropolitan-City-Design
-A C-based interactive console application to explore the city of Mysore! 
+Mysore Metro & City Connectivity System is a console-based C application that imagines the city of Mysore as having its own metro transportation system and interconnected city locations
 
 # Features
 - Read and display Mysore city information from places.txt
