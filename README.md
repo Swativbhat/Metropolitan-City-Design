@@ -71,4 +71,3 @@ gcc main.c -o main
 
 ## Acknowledgements
 This project was developed as part of academic coursework to demonstrate the application of fundamental data structures to real-world city modeling.
-
