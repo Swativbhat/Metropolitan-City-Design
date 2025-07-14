@@ -2,7 +2,7 @@
 A C-based interactive console application to explore the city of Mysore! 
 
 # Features
-- Read and display Mysore city information from places.txt
+Read and display Mysore city information from places.txt
 
 Add and delete city-to-city road distances in distances.txt
 
