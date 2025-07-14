@@ -27,4 +27,48 @@ Use a Segment Tree to perform range minimum queries on distances
 | Insertion Sort | Another method for sorting population in descending order  |
 | Quick Sort     | Sorts edges by weight in ascending order for Kruskal's MST |
 
+## Graph Representations
+| Data Structure   | Purpose                                                       |
+| ---------------- | ------------------------------------------------------------- |
+| Adjacency List   | Represents the city connectivity graph for dynamic operations |
+| Adjacency Matrix | Used in Prim's, BFS, and DFS for dense graph representation   |
+| Distance Matrix  | Stores distances between all city pairs for segment tree ops  |
+
+## Trie (Prefix Tree)
+| Data Structure | Purpose                                                       |
+| -------------- | ------------------------------------------------------------- |
+| Trie           | Stores city names for lexicographic display and prefix search |
+
+## Segment Tree
+| Data Structure | Purpose                                                    |
+| -------------- | ---------------------------------------------------------- |
+| Segment Tree   | Efficiently finds the minimum distance between city ranges |
+
+## Disjoint Set (Union-Find)
+| Data Structure | Purpose                                    |
+| -------------- | ------------------------------------------ |
+| Parent Array   | Detects and avoids cycles in Kruskal’s MST |
+
+## Graph Traversal
+| Algorithm | Purpose                                              |
+| --------- | ---------------------------------------------------- |
+| BFS       | Traverses the graph breadth-wise from a given source |
+| DFS       | Traverses the graph depth-wise from a given source   |
+
+## String Matching
+| Algorithm          | Purpose                             |
+| ------------------ | ----------------------------------- |
+| Brute Force Search | Searches for patterns in city names |
+
+## How to Compile and Run
+### Compile the program using a C compiler:
+gcc main.c -o main
+
+### Run the executable:
+./main
+
+### Follow the menu options to explore city connectivity, add/delete roads, search city names, and analyze MSTs.
+
+## Acknowledgements
+This project was developed as part of academic coursework to demonstrate the application of fundamental data structures to real-world city modeling.
 
