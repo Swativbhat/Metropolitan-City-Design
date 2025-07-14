@@ -2,7 +2,7 @@
 A C-based interactive console application to explore the city of Mysore! 
 
 # Features
-Read and display Mysore city information from places.txt
+- Read and display Mysore city information from places.txt
 
 Add and delete city-to-city road distances in distances.txt
 
@@ -65,7 +65,7 @@ Use a Segment Tree to perform range minimum queries on distances
 ```gcc main.c -o main```
 
 ### Run the executable:
-./main
+```./main```
 
 ### Follow the menu options to explore city connectivity, add/delete roads, search city names, and analyze MSTs.
 
