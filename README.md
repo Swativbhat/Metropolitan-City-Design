@@ -62,7 +62,7 @@ Use a Segment Tree to perform range minimum queries on distances
 
 ## How to Compile and Run
 ### Compile the program using a C compiler:
-gcc main.c -o main
+```gcc main.c -o main```
 
 ### Run the executable:
 ./main
